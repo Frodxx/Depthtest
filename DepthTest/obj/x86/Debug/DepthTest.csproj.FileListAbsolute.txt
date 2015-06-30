@@ -1,0 +1,9 @@
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\bin\x86\Debug\DepthTest.exe.config
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\DepthTest.csprojResolveAssemblyReference.cache
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\App.g.cs
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\DepthTest_MarkupCompile.cache
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\DepthTest.g.resources
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\DepthTest.Properties.Resources.resources
+C:\Users\Patysalinas\Desktop\Project 2\DepthTest\DepthTest\obj\x86\Debug\DepthTest.csproj.GenerateResource.Cache
